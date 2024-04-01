@@ -1,4 +1,4 @@
 123
-insert line
+insert
 456
 789.
